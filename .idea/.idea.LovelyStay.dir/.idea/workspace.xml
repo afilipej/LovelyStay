@@ -4,11 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f17a68e6-ad92-4117-9809-487dc3dfa5a8" name="Changes" comment="Search user app added" />
+    <list default="true" id="f17a68e6-ad92-4117-9809-487dc3dfa5a8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.LovelyStay.dir/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LovelyStay.dir/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.LovelyStay.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LovelyStay.dir/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="repository" />
+    </option>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -25,6 +33,7 @@
       </GitPushTagMode>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo"><![CDATA[{
@@ -69,7 +78,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1710146496119</updated>
-      <workItem from="1710146498393" duration="1116000" />
+      <workItem from="1710146498393" duration="2806000" />
     </task>
     <task id="LOCAL-00001" summary="Search user app added">
       <option name="closed" value="true" />
@@ -90,6 +99,7 @@
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Search user app added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Search user app added" />
+    <MESSAGE value="this is the new files" />
+    <option name="LAST_COMMIT_MESSAGE" value="this is the new files" />
   </component>
 </project>
