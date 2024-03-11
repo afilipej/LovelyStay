@@ -4,9 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f17a68e6-ad92-4117-9809-487dc3dfa5a8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.LovelyStay.dir/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LovelyStay.dir/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="f17a68e6-ad92-4117-9809-487dc3dfa5a8" name="Changes" comment="new structures">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.LovelyStay.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LovelyStay.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/e2e_testing/UnitTest1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/e2e_testing/UnitTest1.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/e2e_testing/e2e_testing.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/e2e_testing/e2e_testing.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/e2e_testing/obj/Debug/net7.0/e2e_testing.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/e2e_testing/obj/Debug/net7.0/e2e_testing.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/e2e_testing/obj/Debug/net7.0/e2e_testing.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/e2e_testing/obj/Debug/net7.0/e2e_testing.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/e2e_testing/obj/e2e_testing.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/e2e_testing/obj/e2e_testing.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/e2e_testing/obj/e2e_testing.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/e2e_testing/obj/e2e_testing.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/e2e_testing/obj/e2e_testing.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/e2e_testing/obj/e2e_testing.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/e2e_testing/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/e2e_testing/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/e2e_testing/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/e2e_testing/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/e2e_testing/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/e2e_testing/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/e2e_testing/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/e2e_testing/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/e2e_testing/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/e2e_testing/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +43,7 @@
         <option name="title" value="All" />
       </GitPushTagMode>
     </option>
+    <option name="RECENT_COMMON_BRANCH" value="main" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
@@ -50,7 +62,7 @@
     "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "AJ-branch",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -78,7 +90,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1710146496119</updated>
-      <workItem from="1710146498393" duration="2806000" />
+      <workItem from="1710146498393" duration="4311000" />
     </task>
     <task id="LOCAL-00001" summary="Search user app added">
       <option name="closed" value="true" />
@@ -88,7 +100,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710146675681</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="new structures">
+      <option name="closed" value="true" />
+      <created>1710164788868</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1710164788868</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,6 +120,7 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Search user app added" />
     <MESSAGE value="this is the new files" />
-    <option name="LAST_COMMIT_MESSAGE" value="this is the new files" />
+    <MESSAGE value="new structures" />
+    <option name="LAST_COMMIT_MESSAGE" value="new structures" />
   </component>
 </project>
