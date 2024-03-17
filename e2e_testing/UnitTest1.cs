@@ -23,7 +23,7 @@ namespace e2e_testing
             _playwright = await Playwright.CreateAsync();
             _browser = await _playwright.Chromium.LaunchAsync(new BrowserTypeLaunchOptions
             {
-                Headless = true
+                Headless = false
             });
             _page = await _browser.NewPageAsync();
             await _page.GotoAsync("http://localhost:3000/");
