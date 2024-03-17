@@ -46,9 +46,17 @@
               "target": "Package",
               "version": "[17.0.0, )"
             },
+            "Microsoft.Playwright": {
+              "target": "Package",
+              "version": "[1.42.0, )"
+            },
             "NUnit3TestAdapter": {
               "target": "Package",
               "version": "[4.1.0, )"
+            },
+            "SpecFlow.Assist.Dynamic": {
+              "target": "Package",
+              "version": "[1.4.2, )"
             },
             "SpecFlow.NUnit": {
               "target": "Package",

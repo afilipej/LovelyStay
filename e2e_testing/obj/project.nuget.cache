@@ -1,13 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "BZZ+NKA2KVHJu3FwBVJ+wlgwt3aEF+WjPUuNL67Ppo2PRSAhUDZaLhkWcOxci30h+6kuncsmnL5Zf9Avn/T8rg==",
+  "dgSpecHash": "4b0PjiInwF/6dKFIqW+2zfQZCI3zwTbV/764NSSBGXDUbjtOgJjaOFFaoZDUjWnlWmxQ1YOEpc2QO/OwuoOtHw==",
   "success": true,
   "projectFilePath": "/Users/andrejardim/RiderProjects/LovelyStay/e2e_testing/e2e_testing.csproj",
   "expectedPackageFiles": [
     "/Users/andrejardim/.nuget/packages/coverlet.collector/3.2.0/coverlet.collector.3.2.0.nupkg.sha512",
+    "/Users/andrejardim/.nuget/packages/microsoft.bcl.asyncinterfaces/6.0.0/microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
     "/Users/andrejardim/.nuget/packages/microsoft.codecoverage/17.5.0/microsoft.codecoverage.17.5.0.nupkg.sha512",
     "/Users/andrejardim/.nuget/packages/microsoft.net.test.sdk/17.5.0/microsoft.net.test.sdk.17.5.0.nupkg.sha512",
     "/Users/andrejardim/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/andrejardim/.nuget/packages/microsoft.playwright/1.42.0/microsoft.playwright.1.42.0.nupkg.sha512",
+    "/Users/andrejardim/.nuget/packages/microsoft.playwright.nunit/1.42.0/microsoft.playwright.nunit.1.42.0.nupkg.sha512",
+    "/Users/andrejardim/.nuget/packages/microsoft.playwright.testadapter/1.42.0/microsoft.playwright.testadapter.1.42.0.nupkg.sha512",
     "/Users/andrejardim/.nuget/packages/microsoft.testplatform.objectmodel/17.5.0/microsoft.testplatform.objectmodel.17.5.0.nupkg.sha512",
     "/Users/andrejardim/.nuget/packages/microsoft.testplatform.testhost/17.5.0/microsoft.testplatform.testhost.17.5.0.nupkg.sha512",
     "/Users/andrejardim/.nuget/packages/netstandard.library/2.0.0/netstandard.library.2.0.0.nupkg.sha512",
@@ -16,7 +20,11 @@
     "/Users/andrejardim/.nuget/packages/nunit/3.13.3/nunit.3.13.3.nupkg.sha512",
     "/Users/andrejardim/.nuget/packages/nunit.analyzers/3.6.1/nunit.analyzers.3.6.1.nupkg.sha512",
     "/Users/andrejardim/.nuget/packages/nunit3testadapter/4.4.2/nunit3testadapter.4.4.2.nupkg.sha512",
-    "/Users/andrejardim/.nuget/packages/system.reflection.metadata/1.6.0/system.reflection.metadata.1.6.0.nupkg.sha512"
+    "/Users/andrejardim/.nuget/packages/system.componentmodel.annotations/5.0.0/system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "/Users/andrejardim/.nuget/packages/system.reflection.metadata/1.6.0/system.reflection.metadata.1.6.0.nupkg.sha512",
+    "/Users/andrejardim/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "/Users/andrejardim/.nuget/packages/system.text.encodings.web/6.0.0/system.text.encodings.web.6.0.0.nupkg.sha512",
+    "/Users/andrejardim/.nuget/packages/system.text.json/6.0.0/system.text.json.6.0.0.nupkg.sha512"
   ],
   "logs": []
 }
