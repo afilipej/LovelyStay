@@ -5,26 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f17a68e6-ad92-4117-9809-487dc3dfa5a8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/e2e_testing_bdd/.idea/.idea.e2e_testing_bdd.dir/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/e2e_testing_bdd/.idea/.idea.e2e_testing_bdd.dir/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/e2e_testing_bdd/.idea/.idea.e2e_testing_bdd.dir/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/e2e_testing_bdd/Features/GitSearchApp.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/e2e_testing_bdd/Pages/ResultsPage.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/e2e_testing_bdd/Pages/SearchPage.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/e2e_testing_js/.idea/.idea.e2e_testing_js.dir/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/e2e_testing_js/.idea/.idea.e2e_testing_js.dir/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/e2e_testing_js/.idea/.idea.e2e_testing_js.dir/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/e2e_testing_js/Pages/ResultsPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/e2e_testing_js/Pages/SearchPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/e2e_testing_js/tests/e2e_tests.spec.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.LovelyStay.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LovelyStay.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/e2e_testing/UnitTest1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/e2e_testing/UnitTest1.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/e2e_testing_bdd/Drivers/Driver.cs" beforeDir="false" afterPath="$PROJECT_DIR$/e2e_testing_bdd/Drivers/Driver.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/e2e_testing_bdd/Features/Calculator.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/e2e_testing_bdd/Steps/CalculatorStepDefinitions.cs" beforeDir="false" afterPath="$PROJECT_DIR$/e2e_testing_bdd/Steps/GitSearchAppSteps.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/e2e_testing_bdd/e2e_testing_bdd.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/e2e_testing_bdd/e2e_testing_bdd.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/e2e_testing_bdd/obj/Debug/net6.0/e2e_testing_bdd.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/e2e_testing_bdd/obj/Debug/net6.0/e2e_testing_bdd.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/e2e_testing_bdd/obj/Debug/net6.0/e2e_testing_bdd.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/e2e_testing_bdd/obj/Debug/net6.0/e2e_testing_bdd.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/e2e_testing_bdd/obj/e2e_testing_bdd.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/e2e_testing_bdd/obj/e2e_testing_bdd.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/e2e_testing_bdd/obj/e2e_testing_bdd.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/e2e_testing_bdd/obj/e2e_testing_bdd.csproj.nuget.g.targets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/e2e_testing_bdd/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/e2e_testing_bdd/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/e2e_testing_bdd/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/e2e_testing_bdd/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/e2e_testing_bdd/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/e2e_testing_bdd/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/e2e_testing_bdd/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/e2e_testing_bdd/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/e2e_testing/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/e2e_testing/obj/rider.project.model.nuget.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,10 +45,13 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/e2e_testing/UnitTest1.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2dXFPn5zFHFiHzRbXFS1MTudrex" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -72,7 +63,7 @@
     "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "AJ-branch",
+    "git-widget-placeholder": "testing-challenge-js-framework",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
