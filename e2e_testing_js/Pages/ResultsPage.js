@@ -60,7 +60,6 @@ exports.ResultsPage=class ResultsPage {
         
         expect(isVisible).toBeTruthy();
     }
-
     
     async assertNumberOfRepositories() {
         const numberOfRepositories = (await this.numberOfRepositories.textContent()).split(' ')[1];
@@ -71,6 +70,17 @@ exports.ResultsPage=class ResultsPage {
             console.log(`Number counted: ${numberOfTitles}`);
             throw new Error('The number of repositories shown is different from the ones counted');
         }
+    }
+
+    async getRepositoriesTitlesText() {
+        await this.returnButton.waitFor({ state: 'visible' });
+        let titlesText = [];
+        const num = await this.repositoriesTitles.count();
+        for (let i = 0; i < num; i++) {
+            const titleText = await this.repositoriesTitles.nth(i).textContent();
+            titlesText.push(titleText.trim());
+        }
+        return titlesText;
     }
 }
 

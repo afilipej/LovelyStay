@@ -5,14 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f17a68e6-ad92-4117-9809-487dc3dfa5a8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/e2e_testing_js/.idea/.idea.e2e_testing_js.dir/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/e2e_testing_js/.idea/.idea.e2e_testing_js.dir/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/e2e_testing_js/.idea/.idea.e2e_testing_js.dir/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/e2e_testing_js/Pages/ResultsPage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/e2e_testing_js/Pages/SearchPage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/e2e_testing_js/tests/e2e_tests.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/e2e_testing_js/Pages/GitHubPage.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.LovelyStay.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LovelyStay.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/e2e_testing/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/e2e_testing/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/e2e_testing_js/Pages/ResultsPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/e2e_testing_js/Pages/ResultsPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/e2e_testing_js/Pages/SearchPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/e2e_testing_js/Pages/SearchPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/e2e_testing_js/tests/e2e_tests.spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/e2e_testing_js/tests/e2e_tests.spec.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
